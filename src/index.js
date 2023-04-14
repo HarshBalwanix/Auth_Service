@@ -22,7 +22,7 @@ const prepareAndStartServer =() =>{
         {
             db.sequelize.sync({alter:true});
         }
-        
+        //const
     });
 }
 
