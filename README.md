@@ -24,6 +24,11 @@ A simple Express.js server starter template with Sequelize ORM for managing data
 
 4. Explore API routes at `http://localhost:{PORT}/api`.
 
+## Tech Stack:
+- Express.js
+- Sequelize
+- Body-parser
+
 ## Configuration
 
 - Database settings can be configured in `./config/serverconfig.js` and `./config/config.json`.
